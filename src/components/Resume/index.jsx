@@ -205,7 +205,12 @@ export default class Resume extends Component {
 								Created from scratch a CI dashboard that got 160k hits and received 90%+ user satisfaction. Executed entire product lifecycle solo - product requirements, design, frontend implementation, launch, post-launch landing metrics.
 							</BulletPoint>
 							<BulletPoint>
-								Designed a critical UI for <a href="https://cloud.google.com/blog/products/compute/introducing-googles-new-arm-based-cpu" target="_blank">Google Axion</a>, Google's first Arm-based CPU effort.<br/>5+ stakeholder teams, created Figma mockups, implemented the frontend solo.
+								Designed and implemented a critical UI for <a href="https://cloud.google.com/blog/products/compute/introducing-googles-new-arm-based-cpu" target="_blank">Google Axion</a>, Google's first Arm-based CPU, directly enabling the migration of TPU workloads to Arm-based hosts. This work was crucial in ensuring the software readiness and de-risking performance for future TPU generations running on the new Arm architecture.
+								<br/>5+ stakeholder teams, created Figma mockups, implemented the frontend solo.
+							</BulletPoint>
+							<BulletPoint>
+								Driving the "zero-to-one" frontend architecture for <a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/pomelli/" target="_blank">Pomelli</a>, an AI-powered marketing hub within Google Labs that automates brand-aware campaign generation for SMBs via cutting-edge LLM and multi-modal AI integrations. 
+								Architecting complex TypeScript and React systems to programmatically extract "Business DNA" from unstructured web data, translating sophisticated machine learning outputs into intuitive, high-performance user interfaces.
 							</BulletPoint>
 						</BulletPoints>
 					</CompanyContent>
