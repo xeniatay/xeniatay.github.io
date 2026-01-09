@@ -210,7 +210,7 @@ export default class Resume extends Component {
 							</BulletPoint>
 							<BulletPoint>
 								Driving the "zero-to-one" frontend architecture for <a href="https://blog.google/innovation-and-ai/models-and-research/google-labs/pomelli/" target="_blank">Pomelli</a>, an AI-powered marketing hub within Google Labs that automates brand-aware campaign generation for SMBs via cutting-edge LLM and multi-modal AI integrations. 
-								Architecting complex TypeScript and React systems to programmatically extract "Business DNA" from unstructured web data, translating sophisticated machine learning outputs into intuitive, high-performance user interfaces.
+								Architecting complex TypeScript and Angular/RxJS systems to programmatically extract "Business DNA" from unstructured web data, translating sophisticated machine learning outputs into intuitive, high-performance user interfaces.
 							</BulletPoint>
 						</BulletPoints>
 					</CompanyContent>
